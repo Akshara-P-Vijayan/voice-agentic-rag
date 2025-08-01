@@ -1,0 +1,15 @@
+streamlit
+torch
+transformers
+accelerate
+gtts
+wikipedia
+arxiv
+requests
+beautifulsoup4
+pymupdf
+speechrecognition
+mlflow
+langgraph
+llama-index
+llama-index-llms-huggingface
